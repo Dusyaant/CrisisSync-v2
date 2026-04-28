@@ -52,8 +52,8 @@ CrisisSync v2 follows a modern **Serverless Cloud Architecture** to ensure high 
 3.  **Run Locally:** Simply open `index.html` in your browser.
 
 ## 👥 The Team
-* **Dusyaant R** - Lead Developer & System Architect
-* **Selvamagal M** - Contributor & UI/UX Design
+* **Dusyaant R** - Lead Developer & UI/UX Design
+* **Selvamagal M** - Contributor & System Architect
 
 ---
 
